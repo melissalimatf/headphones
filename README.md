@@ -1,2 +1,3 @@
-# headphones
- Projeto básico feito com HTML, CSS e JS 
+# HeadPhones
+
+Projeto básico feito com HTML, CSS e JS
